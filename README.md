@@ -7,3 +7,4 @@ RAG stands for Retrieval Augmented Generation
 * Generation - Generating an output given an input. For example, in the case of an LLM, generating a passage of text given an input prompt.
 ## Our pipeline 
 get some data transformed to shunks 😁
+it load...
