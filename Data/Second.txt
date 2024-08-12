@@ -1,0 +1,153 @@
+## The Jasmine Oasis Hotel & Spa - Comprehensive RAG Model Dataset (Quality & Diversity Focus)
+
+**I.  Hotel Information:**
+
+* **Hotel Description:** Nestled amidst swaying palm trees and vibrant bougainvillea, The Jasmine Oasis Hotel & Spa offers a luxurious escape in the heart of Hammamet, Tunisia. With panoramic views of the azure Mediterranean Sea, our blend of traditional Moorish architecture and modern amenities creates a haven of tranquility. Indulge in rejuvenating spa treatments, savor delectable Tunisian cuisine, or simply unwind by our sparkling pools.  Let the gentle sea breeze and the scent of jasmine transport you to a realm of pure relaxation. 
+
+* **Frequently Asked Questions (FAQs):** 
+    * **Q: What time are breakfast, lunch, and dinner served at the hotel?**
+        * **A:** A lavish buffet breakfast is served in our Al Hambra Restaurant from 7:00 AM to 10:30 AM.  Lunch is available à la carte at our poolside restaurant, The Oasis, from 12:30 PM to 3:30 PM. For dinner, you can enjoy a variety of themed buffets or à la carte dining at Al Hambra from 7:00 PM to 10:00 PM.
+    * **Q: Do you offer babysitting services?**
+        * **A:** Yes, we can arrange for trusted babysitters upon request.  Please provide us with at least 24 hours' notice so we can ensure availability.  
+    * **Q: Can I rent a car at the hotel?**
+        * **A:**  We can assist you with car rentals. Our concierge can contact reputable rental companies and have a vehicle delivered directly to the hotel for your convenience.
+    * **Q: What is the best time of year to visit Tunisia?**
+        * **A:** Tunisia is a year-round destination, but the best time to visit for swimming and sunbathing is during the shoulder seasons (spring and fall) when the weather is warm and sunny, but not too hot.
+    * **Q: Is it safe to drink the tap water?**
+        * **A:**  While the tap water is generally safe, we recommend drinking bottled water, which is readily available at the hotel and in local shops.
+
+* **Room Information:** 
+
+    * **Deluxe Sea View Room:** Our Deluxe Rooms offer breathtaking views of the Mediterranean Sea from your private, furnished balcony.  Unwind in the spacious seating area, enjoy a refreshing drink from the minibar, or stay connected with our complimentary high-speed Wi-Fi. Each room features: 
+       *  One king-size bed or two twin beds (upon request)
+       * Air conditioning, flat-screen TV, mini-bar, safe, hairdryer, bathrobes and slippers, tea and coffee making facilities, complimentary toiletries.
+    * **Jasmine Suite:** Experience true luxury in our Jasmine Suite, featuring a separate living room, a private balcony with panoramic sea views, and a spacious bathroom with a Jacuzzi tub.  Enjoy exclusive amenities such as:
+        * King-size bed, walk-in closet, Nespresso coffee machine, daily complimentary fruit basket and bottled water, access to the Executive Lounge with complimentary breakfast, afternoon tea, and evening cocktails. 
+    * **Family Connecting Rooms:** Ideal for families, our connecting rooms offer comfort and convenience with two interconnecting rooms, each with its own private bathroom. These rooms feature:
+        * One king-size bed and two twin beds, ample storage space, a play area for children, and kid-friendly amenities upon request. 
+
+* **Hotel Policies:** 
+    * **Cancellation Policy:** Cancellations made 7 days or more prior to arrival will receive a full refund. Cancellations made within 7 days of arrival will be charged 50% of the total booking amount.
+    * **Pet Policy:**  We regret that pets are not allowed at The Jasmine Oasis Hotel & Spa, with the exception of service animals. Please contact us directly to make arrangements if you require a service animal during your stay.
+    * **Smoking Policy:**  We are a non-smoking hotel. Smoking is only permitted in designated outdoor areas.
+
+* **Local Area Information:** 
+    * **Restaurants:** 
+        * **Dar El Medina (5-minute walk):** Experience authentic Tunisian cuisine in a beautifully restored riad. (Price range: $$$)
+        * **Le Pirate (10-minute taxi):**  This popular seafood restaurant boasts fresh catches of the day and stunning views of the marina. (Price range: $$$$)
+        * **Restaurant Sidi Bou Hdid (in the Medina):** Tucked away in a quiet corner of the Medina, this charming restaurant offers delicious tagines and couscous dishes at very reasonable prices. (Price range: $$)
+    * **Attractions:** 
+        * **Medina of Hammamet (10-minute walk):**  Wander through the labyrinthine streets of the Medina, a UNESCO World Heritage Site, and discover hidden treasures in its bustling souks (markets).
+        * **Yasmine Hammamet (15-minute taxi):**  This modern resort area offers a lively marina, an amusement park, a casino, and a wide array of shops and restaurants.
+        * **Pupput Roman Site (20-minute taxi):** Step back in time at the ruins of Pupput, an ancient Roman city featuring well-preserved mosaics and artifacts.
+    * **Transportation:** Taxis are readily available outside the hotel. The hotel can also arrange private airport transfers upon request.
+    * **Hidden Gem:**
+        * **Name:** Café Sidi Chabaane -  Perched on a clifftop with breathtaking views of the Mediterranean, this charming café offers traditional mint tea and pastries.
+        * **Why Visit:**  Escape the crowds and soak up the tranquil ambiance while enjoying stunning sunsets.  
+
+* **Additional Data:** 
+    * **Weather:** Tunisia enjoys a Mediterranean climate with hot, dry summers and mild, wet winters. The best time to visit for swimming and sunbathing is from May to October.
+    * **Currency Exchange:**  The local currency is the Tunisian Dinar (TND).  We recommend exchanging currency at banks or official exchange bureaus for the best rates. Our concierge can assist you with locating these services.  The front desk can exchange small amounts for immediate needs.
+    * **Tipping:** Tipping is customary in Tunisia. A tip of 10% of the bill is generally appreciated in restaurants, and you can tip hotel staff a few dinars for good service.
+    * **Safety:** Tunisia is generally a safe country for tourists. However, as in any destination, it's always wise to be mindful of your belongings, especially in crowded areas.
+    * **Cultural Insights:** Tunisia has a rich history and culture influenced by Berber, Arab, and European traditions.  Be sure to visit the Medina of Hammamet, explore ancient ruins, and experience the warmth and hospitality of the Tunisian people. 
+
+* **Hotel Specifics:** 
+    * **Check-in/Out Times:**  Check-in time is 3:00 PM, and check-out time is 11:00 AM. Early check-in or late check-out may be available upon request, subject to availability and often with an additional fee. 
+    * **Languages Spoken:** Our staff is multilingual, fluent in Arabic, French, English, and German, ensuring clear communication for all guests.
+    * **Kids' Club:** Our supervised Kids' Club welcomes children aged 4-12, offering games, activities, and a chance for parents to relax. The Kids' Club is open daily from 9:00 AM to 5:00 PM.
+    * **Business Center:**  We have a fully-equipped business center with computers, printing services, and meeting rooms available for reservation.  
+    * **Accessibility:**  The hotel is wheelchair accessible, with ramps, elevators, and select rooms adapted for guests with mobility needs. Please inform us in advance for specific requirements. 
+    * **Room Service Hours:**  Room service is available 24/7, with a limited late-night menu after midnight.
+
+* **Dining & Entertainment:** 
+    * **Themed Dinner Nights:** Every week, we host themed buffet dinners, such as a traditional Tunisian night with live music and belly dancing, and a seafood extravaganza featuring the freshest catches of the day.
+    * **Poolside Bar:**  Our poolside bar, "The Oasis," serves refreshing cocktails, mocktails, light snacks, and offers shisha (water pipes) in the evenings.
+    * **Romantic Dinners:** We can arrange a private, candlelit dinner for two on the beach or in our gardens for a special occasion. 
+
+* **Local Experiences:** 
+    * **Local Market Day:**  Immerse yourself in local life at the vibrant Hammamet Medina market, held every Thursday and Sunday.  You'll find an array of fresh produce, spices, textiles, ceramics, and handcrafted souvenirs.
+    * **Golf Courses:**  Two championship golf courses, Citrus Golf Course and Yasmine Golf Course, are within a 20-minute drive of the hotel, offering challenging play and scenic views.
+    * **Water Sports:** From our private beach, enjoy a variety of water sports during the summer months, including jet skiing, parasailing, windsurfing, and boat rentals.
+    * **Hammamet Fort (Kasbah):**  Explore this historic 15th-century fortress located near the Medina.  The Kasbah offers panoramic views of the city, the harbor, and the Mediterranean Sea. 
+
+## II. Sample Dialogues (Add 5-10 diverse scenarios):
+
+**Scenario 1: Late Check-out Request**
+* **Guest:**  "Good morning!  I was hoping to request a late check-out for tomorrow. Is that possible?"
+* **Robot:**  "Of course!  I can help you with that.  What time were you hoping to check out?"
+* **Guest:**  "Would 2 PM be alright?"
+* **Robot:** "Let me check availability for you.  ... Yes, a 2 PM late check-out is available for a fee of 50 Tunisian Dinars.  Would you like me to add that to your reservation?"
+
+**Scenario 2:  Dietary Restriction at Restaurant**
+* **Guest:**  "I'm allergic to shellfish.  Are there any dishes on the menu without shellfish?"
+* **Robot:**  "I understand.  I can assure you that our chefs take dietary allergies very seriously.  Would you like to speak to the chef directly about your allergy and discuss the menu options?"
+* **Guest:**  "Yes, please.  That would be great."
+* **Robot:**  "Certainly!  I'll inform the chef and ask them to come to your table to discuss the menu with you personally." 
+
+**Scenario 3: Local Market Recommendations**
+* **Guest:**  "What's a good place to buy authentic souvenirs around here?"
+* **Robot:**  "If you're looking for unique and handmade souvenirs, I highly recommend visiting the Medina of Hammamet. It's a bustling market with a wide variety of local crafts, textiles, ceramics, and spices. Be sure to put your bargaining skills to the test!"
+
+**Scenario 4: Booking an Excursion**
+* **Guest:** "Is it possible to book an excursion through the hotel to see the Sahara Desert?"
+* **Robot:** "Absolutely!  We offer a variety of guided excursions, including a two-day trip to the Sahara Desert.  It includes camel rides, a stay in a traditional desert camp with dinner under the stars, and breathtaking views of the dunes. Would you like to hear more about it?"
+
+**Scenario 5: Handling a Complaint**
+* **Guest:** "Excuse me, but the air conditioning in my room isn't working properly."
+* **Robot:**  "I'm so sorry to hear that.  I can certainly assist you with this. Could you please tell me your room number so I can report this issue to maintenance?"
+
+**Scenario 6:  Directions within the Hotel**
+* **Guest:**  "Can you tell me how to get to the spa?"
+* **Robot:**  "Certainly!  The spa is located on the ground floor, just past the lobby and through the archway with the jasmine vines.  You'll see the spa reception desk on your right-hand side."
+
+**Scenario 7:  Information about Local Customs**
+* **Guest:**  "Are there any local customs I should be aware of when visiting religious sites?"
+* **Robot:** "It's considered respectful to dress modestly when visiting mosques or religious sites in Tunisia.  This means covering your shoulders and knees. Women may also want to cover their hair with a scarf. "
+
+**Scenario 8:  Lost and Found Inquiry**
+* **Guest:**  "I think I left my phone at the pool earlier.  Is there a lost and found?"
+* **Robot:**  "Yes, there is. Please come with me to the reception desk, and I will help you inquire about your lost phone." 
+
+**Scenario 9:  Request for Wake-up Call**
+* **Guest:**  "Can you give me a wake-up call at 7:00 AM tomorrow morning?"
+* **Robot:** "Certainly!  I can set a wake-up call for you.  What is your room number, please?"
+
+**Scenario 10:  Request for a Taxi**
+* **Guest:**  "I'd like to get a taxi to the airport tomorrow morning. Can you call one for me?"
+* **Robot:**  "Of course!  What time would you like me to schedule the taxi for?  And to confirm, it's to Tunis-Carthage International Airport, correct?" 
+
+## III. Text Summaries:
+
+* **Summary of a Real Hotel Review (from TripAdvisor):**
+    * The Jasmine Oasis Hotel & Spa receives rave reviews for its stunning location, friendly staff, and delicious breakfast buffet.  Guests particularly appreciate the beautiful gardens and pool area. Some reviewers mentioned that the Wi-Fi signal could be stronger in certain areas of the hotel.
+
+* **Summary of Hammamet Medina (from Lonely Planet):**
+    * The Medina of Hammamet is a historic walled city dating back to the 15th century,  and a fascinating labyrinth of narrow, winding alleyways lined with shops and stalls. Visitors can find everything from traditional handicrafts and spices to leather goods and ceramics. Bargaining is expected, and it's a great place to immerse yourself in local culture. 
+
+* **Summary of Tunisian Cuisine (from a travel blog):**
+    * Tunisian cuisine is a flavorful blend of Mediterranean and Arabic influences, featuring fresh seafood, aromatic spices, and delicious tagines and couscous dishes. Harissa, a spicy chili paste, is a staple condiment.  Be sure to try traditional dishes like brik (a crispy pastry filled with egg, tuna, or vegetables), couscous with lamb or chicken, and lablabi (a hearty chickpea soup).
+
+* **Summary of the Sahara Desert Experience (from a tour company website):**
+    * Embark on an unforgettable journey into the heart of the Sahara Desert. Experience the thrill of riding a camel across the dunes, sleep under a canopy of stars in a traditional Bedouin tent, and witness the awe-inspiring beauty of the desert landscape. 
+
+## IV. Structured Data:
+
+**Table 1: Sample Restaurant Menu (Al Hambra Restaurant - Dinner)**
+
+| Dish                         | Description                                                                                            | Price (TND) |
+|------------------------------|--------------------------------------------------------------------------------------------------------|------------|
+| Brik à l'Oeuf               | Crispy pastry filled with egg, tuna, capers, and parsley                                             | 18           |
+| Salad Mechouia               | Grilled pepper salad with tomatoes, onions, and garlic                                                | 16           |
+| Couscous Royal                | Steamed couscous with lamb, chicken, merguez sausage, and vegetables                               | 38           |
+| Tajine with Lamb & Prunes   | Slow-cooked lamb stew with prunes, almonds, and spices                                               | 32           |
+| Grilled Sea Bass            | Freshly grilled sea bass served with roasted vegetables and lemon sauce                             | 42           |
+| Makroudh                     | Semolina cookies filled with dates and flavored with orange blossom water                           | 10           |
+
+**Table 2:  Excursion Schedule (Sample)**
+
+| Excursion                     | Days Offered | Time        | Description                                                                                        |
+|------------------------------|-------------|-------------|----------------------------------------------------------------------------------------------------|
+| Hammamet City Tour          | Daily        | 9:00 AM     | Explore the Medina, Kasbah, and other highlights of Hammamet.                                    |
+| Sidi Bou Said & Carthage    | Tue, Thu, Sat | 9:30 AM     | Discover the charming village of Sidi Bou Said and the ancient ruins of Carthage.                |
+| Sahara Desert Adventure   | Mon, Wed, Fri | 8:00 AM     | Two-day trip to the Sahara Desert, including camel rides and an overnight stay in a desert camp. |
