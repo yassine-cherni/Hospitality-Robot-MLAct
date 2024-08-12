@@ -1,5 +1,5 @@
 # Hospitality-Robot-MLAct
-We will Begin by the chatbot 
+People will forget what you said, forget what you did but they never forget how you made them feel "My Experience of Working in the Hospitality Industry"
 ## What is RAG?
 RAG stands for Retrieval Augmented Generation
 * Retrieval - Seeking relevant information from a source given a query. For example, getting relevant passages of Wikipedia text from a database given a question.
