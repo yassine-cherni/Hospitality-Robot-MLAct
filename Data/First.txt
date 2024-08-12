@@ -1,0 +1,101 @@
+## The Jasmine Oasis Hotel & Spa -  Comprehensive Data for Hospitality RAG Model
+
+**Hotel Description:**
+
+Imagine stepping into a postcard. That's The Jasmine Oasis Hotel & Spa for you. Overlooking the turquoise waters of the Mediterranean near the charming town of Hammamet, our blend of Moorish architecture and lush gardens creates a haven of tranquility. Lounge by one of our pools, rejuvenate at our world-class spa, or let us guide you to hidden Tunisian treasures.
+
+**Frequently Asked Questions (FAQs):**
+
+* **Q: Do your rooms have balconies?**
+    * **A:** Many of our rooms do! Our Deluxe rooms and above feature private balconies with stunning sea or garden views. If having a balcony is essential for you, please let us know at the time of booking, and we'll do our best to accommodate you.
+* **Q: What is the best way to get from the airport?**
+    * **A:** We offer private airport transfers for your convenience.  Just provide your flight details to our concierge at concierge@jasmineoasis.com, and your personal driver will be waiting for you upon arrival. Tunis-Carthage International Airport (TUN) is approximately a 60-minute drive from the hotel. Alternatively, taxis are readily available outside the airport.
+* **Q: I have dietary restrictions. Can the hotel cater to my needs?**
+    * **A:** Absolutely! We take dietary requirements seriously. Please inform us about your dietary needs at least 48 hours in advance, and our chefs will be happy to create delicious meals tailored just for you. We cater to a variety of dietary needs, including vegetarian, vegan, gluten-free, and more.
+* **Q: Can you arrange excursions to local historical sites?**
+    * **A:** Of course! We offer a variety of curated excursions to immerse you in Tunisia's rich history and culture. 
+        * **Explore the ancient ruins of Carthage:** Journey back in time to the once-mighty Phoenician city of Carthage, a UNESCO World Heritage site.
+        * **Discover the charm of Sidi Bou Said:** Wander through the narrow streets of this picturesque village, known for its blue-and-white buildings and stunning views of the Mediterranean.
+        * **Embark on a desert adventure to the Sahara:** Experience the magic of the Sahara Desert with a guided tour, including camel rides, breathtaking sunsets, and an overnight stay in a traditional desert camp. 
+        Details of available tours and their schedules can be found at our concierge desk or on our website. 
+* **Q: Is there a dress code for the hotel's restaurants?**
+    * **A:**  While we want you to feel comfortable, we kindly request that guests adhere to a smart casual dress code in our restaurants during dinner service. For gentlemen, this typically means long trousers and a collared shirt. 
+* **Q: What is "hammam" and should I try it?**
+    * **A:** Hammam is a traditional North African spa experience involving steam, exfoliation, and massage. It's incredibly rejuvenating and leaves your skin feeling incredibly soft!  Our spa offers authentic hammam treatments—we highly recommend experiencing this unique aspect of Tunisian culture.
+* **Q: I'd love to learn some Tunisian Arabic. Can you teach me a few phrases?**
+    * **A:**  We'd be delighted! Here are some to get you started:
+        * **Hello:**  As-salamu alaykum  (Peace be upon you)
+        * **Thank you:**  Shukran
+        * **Please:** Min fadlik (masculine) / Min fadlik (feminine)
+        * **Yes:** Na'am
+        * **No:** La
+        Feel free to ask our staff for help with pronunciation—we're always happy to share our language.
+
+**Room Information (Example - Deluxe Room):**
+
+* **Description:** Our Deluxe Rooms offer breathtaking views of the Mediterranean Sea from your private balcony. Unwind in the spacious seating area, enjoy a refreshing drink from the minibar, or stay connected with our complimentary Wi-Fi.
+* **Bed Configuration:** One king-size bed or two twin beds (upon request)
+* **Amenities:** Air conditioning, flat-screen TV, mini-bar, safe, hairdryer, bathrobes and slippers, tea and coffee making facilities, complimentary toiletries.
+* **Additional Details:**  Wake up to the soothing sound of waves crashing on the shore. Each Deluxe Room has a furnished balcony perfect for enjoying your morning coffee or a glass of wine as the sun sets.
+
+**Hotel Policies:**
+
+* **Cancellation Policy:** Cancellations made 7 days or more prior to arrival will receive a full refund. Cancellations made within 7 days of arrival will be charged 50% of the total booking amount.
+* **Pet Policy:** We regret that pets are not allowed at The Jasmine Oasis Hotel & Spa, with the exception of service animals. Please contact us directly to make arrangements if you require a service animal during your stay.
+* **Smoking Policy:**  We are a non-smoking hotel. Smoking is only permitted in designated outdoor areas.
+
+**Local Area Information:**
+
+* **Restaurants:** 
+    * **Dar El Medina:**  Traditional Tunisian cuisine with a romantic ambiance, located a 5-minute walk from the hotel. (Price range: $$$)
+    * **Le Pirate:** Seafood restaurant with stunning views over the harbor, a 10-minute taxi ride from the hotel. (Price range: $$$$)
+* **Attractions:**
+    * **Medina of Hammamet:** This historic walled city is a maze of narrow streets and alleys filled with shops selling everything from spices to souvenirs. (Open daily, free entry)
+    * **Yasmine Hammamet:** A modern tourist resort area with a marina, amusement park, casino, and plenty of restaurants and bars. (Open daily, free entry)
+* **Transportation:** Taxis are readily available outside the hotel. The hotel can also arrange private airport transfers upon request.
+* **Hidden Gem:**
+    * **Name:** Café Sidi Chabaane - A small, family-run café perched on a clifftop overlooking the sea. 
+    * **Why Visit:** It's the perfect spot to escape the crowds, enjoy a cup of traditional mint tea, and soak up the incredible views.
+
+**Additional Data:**
+
+* **Weather:** Tunisia enjoys a Mediterranean climate. Expect warm, sunny summers perfect for swimming and sunbathing, while winters are mild with occasional rainfall. 
+* **Currency Exchange:**  The local currency is the Tunisian Dinar (TND).  We recommend exchanging currency at banks or official exchange bureaus for the best rates. Our concierge can assist you with locating these services.  The front desk can exchange small amounts for immediate needs.
+* **Tipping:** Tipping is customary in Tunisia. A tip of 10% of the bill is generally appreciated in restaurants, and you can tip hotel staff a few dinars for good service. 
+* **Safety:** Tunisia is generally a safe country for tourists. However, as in any destination, it's always wise to be mindful of your belongings, especially in crowded areas.
+* **Special Events and Activities:**
+    * **Tunisian Cooking Class:** Learn the art of preparing delicious Tunisian dishes with our expert chef. (Held every Tuesday at 10:00 AM, booking required)
+    * **Live Music on the Terrace:** Enjoy live traditional Tunisian music and belly dancing every Friday evening from 8:00 PM at our rooftop terrace bar.
+
+**Hotel Specifics:**
+
+* **Check-in/Out Times:** While standard check-in is 3 PM and check-out is 11 AM, early check-in or late check-out is possible based on availability, often with a nominal fee. 
+* **Languages Spoken:** Our staff is multilingual, fluent in Arabic, French, English, and German, ensuring clear communication for all guests.
+* **Kids' Club:** Our supervised Kids' Club welcomes children aged 4-12, offering games, activities, and a chance for parents to relax.
+* **Business Center:** We have a fully-equipped business center with computers, printing services, and meeting rooms available for reservation.
+* **Accessibility:**  The hotel is wheelchair accessible, with ramps, elevators, and select rooms adapted for guests with mobility needs. Please inform us in advance for specific requirements.
+* **Room Service Hours:** Room service is available 24/7, with a limited late-night menu after midnight.
+
+**Dining & Entertainment:**
+
+* **Themed Dinner Nights:**  Each week, enjoy themed buffet dinners, such as a traditional Tunisian night with live music or a seafood extravaganza.
+* **Poolside Bar:** Our poolside bar, "The Oasis," serves refreshing cocktails, light snacks, and offers shisha (water pipes) in the evenings.
+* **Romantic Dinners:** We can arrange a private, candlelit dinner for two on the beach or in our gardens for a special occasion.
+
+**Local Experiences:**
+
+* **Local Market Day:** Visit the vibrant Hammamet Medina market on Thursdays and Sundays for fresh produce, spices, and local handicrafts.
+* **Golf Courses:**  Two championship golf courses are within a 20-minute drive, offering challenging play and scenic views.
+* **Water Sports:**  From our beach, enjoy jet skiing, parasailing, and boat rentals during the summer months.
+* **Hammamet Fort (Kasbah):**  Explore this 15th-century fortress with panoramic views of the city and coastline.
+
+**Cultural Insights:**
+
+* **Ramadan Considerations:** During Ramadan, meal times and some services may be adjusted. We'll provide detailed information to guests during this period.
+* **Appropriate Attire:** While Tunisia is modern, modest dress (covering shoulders, knees) is respectful when visiting religious sites or outside tourist areas.
+* **Bargaining Etiquette:** Bargaining is common in souks (markets).  Be polite, start low, and enjoy the playful negotiation!
+
+**Additional Services:**
+
+* **Laundry Service:** Same-day laundry and dry cleaning services are available for your convenience.
+* **Doctor on Call:** For any medical needs, a doctor is available 24/7. Just contact the reception for assistance. 
