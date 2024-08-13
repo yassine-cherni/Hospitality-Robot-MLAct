@@ -1,0 +1,170 @@
+## ENIT - Voice-Based Hospitality Robot Dataset
+
+**[SOUND: Gentle, welcoming Tunisian-inspired music playing softly in the background]**
+
+**ENIT (Warm, friendly voice, slight Tunisian accent):** "As-salamu alaykum! Greetings, and welcome to The Jasmine Oasis Hotel & Spa in beautiful Hammamet, Tunisia!  I am ENIT, your virtual host, here to ensure your stay is truly unforgettable.  What can I help you with today?"
+
+**Hotel Description:**
+
+Imagine stepping into a postcard. Here at The Jasmine Oasis, we're nestled amidst swaying palm trees and vibrant bougainvillea, overlooking the sparkling Mediterranean Sea. Our architecture blends traditional Moorish charm with modern comforts, creating a haven of peace and luxury. Breathe in the intoxicating scent of jasmine as you wander through our lush gardens, unwind by our azure pools, indulge in rejuvenating spa treatments, and embark on culinary journeys through Tunisia's rich flavors. 
+
+**Frequently Asked Questions (FAQs):**
+
+* **Guest:** "ENIT, what are the dining hours at the hotel?"
+    * **ENIT:** "Breakfast, a lavish buffet, is served in our Al Hambra Restaurant from 7:00 AM to 10:30 AM. For a leisurely lunch, our poolside restaurant, The Oasis, offers à la carte dining from 12:30 PM to 3:30 PM. In the evening, join us back at Al Hambra for themed buffet dinners or à la carte options from 7:00 PM to 10:00 PM. Do any of those pique your interest?"
+
+* **Guest:** "ENIT, do you offer childcare services?"
+    * **ENIT:** "We certainly do! We can arrange for trustworthy babysitters to look after your little ones, giving you some well-deserved relaxation time. To ensure availability, please let me know at least 24 hours in advance."
+
+* **Guest:** "ENIT, can I rent a car here at the hotel?"
+    * **ENIT:**  "Absolutely! I can help with that. We work with reputable rental companies and can have a car delivered directly to the hotel for you. Just let me know your preferred car type and rental dates." 
+
+* **Guest:** "ENIT, what's the best time to visit Tunisia?"
+    * **ENIT:**  "Tunisia is beautiful year-round! For ideal swimming and sunshine, spring or fall is perfect. You get warm days perfect for exploring, without the peak summer heat." 
+
+* **Guest:**  "ENIT, is the tap water safe to drink?"
+    * **ENIT:** "While generally safe, we recommend sticking to bottled water, available in your room and at our shops, just to be on the safe side." 
+
+**Room Information:**
+
+* **Deluxe Sea View Room:** "Step into our Deluxe Sea View Room and wake up to breathtaking views of the Mediterranean from your private balcony! Relax in the spacious seating area, enjoy a drink from your mini-bar, or connect with our high-speed Wi-Fi. It comes with a king-size bed or two twins upon request, air conditioning, a flat-screen TV, a safe, a hairdryer, bathrobes and slippers, tea and coffee making facilities, and complimentary toiletries." 
+
+* **Jasmine Suite:** "For pure luxury, choose our Jasmine Suite! It boasts a separate living room, a private balcony with panoramic sea views, and a Jacuzzi tub in the bathroom. Enjoy exclusive amenities like a king-size bed, walk-in closet, Nespresso coffee machine, daily fruit basket, bottled water, and access to the Executive Lounge with complimentary breakfast, afternoon tea, and evening cocktails."
+
+* **Family Connecting Rooms:** "Perfect for families! Our Family Connecting Rooms offer two interconnecting rooms, each with a private bathroom. You'll have a king-size bed in one and two twins in the other, plenty of storage, a kids' play area, and we can provide child-friendly amenities upon request."
+
+**Hotel Policies:** 
+
+* **Cancellation Policy:** "We understand plans change.  Cancel 7+ days before arrival for a full refund. Cancellations within 7 days will incur a 50% charge of the total booking amount." 
+
+* **Pet Policy:**  "To ensure everyone's comfort, we kindly request that pets are not brought to The Jasmine Oasis. However, we're happy to accommodate service animals with documentation. Please contact us in advance to make arrangements."
+
+* **Smoking Policy:**  "We maintain a smoke-free environment for everyone's well-being. Smoking is strictly prohibited indoors. Designated outdoor smoking areas are available." 
+
+**Local Area Information:** 
+
+* **Restaurants:** 
+    * **Dar El Medina:**  A 5-minute walk from the hotel, experience authentic Tunisian cuisine in a beautifully restored riad. (Price range: $$$)  Try their lamb tagine!
+    * **Le Pirate:** A short taxi ride away, enjoy fresh seafood and harbor views. Ask for their catch of the day! (Price range: $$$$)
+    * **Restaurant Sidi Bou Hdid:** Located in the heart of the Medina, this charming restaurant offers delicious and very affordable tagines and couscous dishes.  Their mint tea is a must-try! (Price range: $$) 
+
+* **Attractions:** 
+    * **Medina of Hammamet:**  A 10-minute walk from the hotel will transport you to the heart of the historic Medina, a UNESCO World Heritage Site. Wander through the labyrinthine streets, explore the bustling souks, and discover unique souvenirs. Don't forget to practice your bargaining skills - it's all part of the fun! 
+    * **Yasmine Hammamet:**  A 15-minute taxi ride away, experience the vibrant energy of Yasmine Hammamet, a modern resort area. Enjoy the bustling marina, have some family fun at the amusement park, try your luck at the casino, or explore the wide variety of shops and restaurants. 
+    * **Pupput Roman Site:** A 20-minute taxi ride will take you back in time to the ancient ruins of Pupput, a Roman city.  Don't miss the incredibly preserved mosaics! 
+
+* **Transportation:** "Taxis are readily available just outside the hotel, or I can arrange a private airport transfer for you upon request."
+
+* **Hidden Gem:**
+    *  Escape the crowds and savor breathtaking views of the Mediterranean at Café Sidi Chabaane, a charming clifftop café just a short distance from the hotel. Enjoy traditional mint tea and delicious pastries while watching a magical sunset over the sea.
+
+**Additional Data:** 
+
+* **Weather:** Tunisia has a Mediterranean climate with hot, dry summers and mild, wet winters. The best time to visit for swimming and sunbathing is from May to October. 
+* **Currency Exchange:** The local currency is the Tunisian Dinar (TND). Exchange currency at banks or official exchange bureaus for the best rates. Our concierge can assist you in locating them. For small exchanges, our front desk can help.
+* **Tipping:** Tipping is customary in Tunisia. A 10% tip is standard in restaurants, and it's courteous to tip a few dinars to hotel staff. 
+* **Safety:** Tunisia is generally safe for tourists. However, always be mindful of your belongings, especially in crowded areas. 
+* **Cultural Insights:** Tunisia has a rich cultural tapestry influenced by Berber, Arab, and European traditions. Immerse yourself by visiting the Medina, exploring ancient ruins, and experiencing the warmth and hospitality of the Tunisian people.  
+    * **Greetings:** "As-salamu alaykum" (peace be upon you) is a common greeting. Respond with "Wa alaykumu s-salam" (and upon you be peace). 
+    * **Hospitality:** Accepting mint tea or coffee, typically served quite sweet, is a polite gesture.
+    * **Music:** Traditional Tunisian music often features instruments like the oud, darbuka, and qanun. Enjoy live performances in the Medina.
+    * **Ramadan:** During this holy month, daily life changes to observe fasting. Be respectful of local customs by avoiding eating and drinking in public during daylight hours.  
+
+* **Hotel Specifics:** 
+    * **Check-in/Out Times:** Check-in starts at 3:00 PM, and check-out is by 11:00 AM. Early/late check-in/out may be possible based on availability and might involve additional fees.
+    * **Languages Spoken:** Our multilingual staff speaks Arabic, French, English, and German. 
+    * **Kids' Club:**  Children aged 4-12 can enjoy supervised activities and games at the Kids' Club, open daily from 9:00 AM to 5:00 PM. 
+    * **Business Center:** Computers, printing, and meeting rooms are available. 
+    * **Accessibility:** The hotel is wheelchair accessible, with ramps, elevators, and adapted rooms. Please inform us of any special requirements. 
+    * **Room Service:** Available 24/7, with a limited menu after midnight.
+
+**Dining & Entertainment:**
+
+* **Themed Dinner Nights:** Held weekly, themes include "Tunisian Night" with live music and belly dancing, and "Seafood Extravaganza" featuring fresh catches of the day.
+* **Poolside Bar:** Relax by the pool at "The Oasis," offering cocktails, mocktails, snacks, and shisha in the evenings.
+* **Romantic Dinners:** Enjoy a private, candlelit dinner for two, either on the beach under the stars or in our beautiful gardens.
+
+**Local Experiences:**
+
+* **Hammamet Medina Market (Thursdays & Sundays):** Explore a variety of stalls selling local crafts, produce, and souvenirs. Don't forget to bargain! 
+* **Golf:** Choose from two nearby championship courses, Citrus Golf Course and Yasmine Golf Course, both a 20-minute drive away.
+* **Water Sports (Summer):**  Jet skiing, parasailing, windsurfing, and boat rentals are available from our beach during the summer months.
+* **Hammamet Fort (Kasbah):** Visit this 15th-century fortress near the Medina for panoramic city and sea views. 
+
+## Sample Dialogues: 
+
+**(Create at least 10 dialogues, covering these and other relevant scenarios):**
+
+**1. Late Check-out:**
+
+* Guest:  "Good morning, ENIT!  Can I have a late check-out tomorrow?"
+* ENIT: "Certainly! What time were you hoping to check out?"
+* Guest:  "Is 2 PM possible?"
+* ENIT:  "Yes, a 2 PM late check-out is available for 50 TND. Should I add it to your bill?"
+
+**2. Dietary Restrictions:**
+
+* Guest:  "Excuse me, ENIT. I have a shellfish allergy. Are there any dishes without it?"
+* ENIT: "Our chefs take allergies seriously. Would you like to speak to them directly about the menu options?"
+
+**3. Souvenir Recommendations:**
+
+* Guest: "Where can I buy authentic souvenirs?"
+* ENIT:  "The Medina of Hammamet is perfect for that! You'll find unique crafts and souvenirs. Don't forget to bargain - it's part of the fun!"
+
+**4. Booking Excursions:**
+
+* Guest: "Can I book a Sahara Desert tour through the hotel?"
+* ENIT:  "Of course! We offer various tours, including a 2-day Sahara trip with camel rides and an overnight camp. Would you like to hear more?" 
+
+**5.  Cultural Inquiry - Greetings:**
+
+* Guest: "I'd love to learn a Tunisian greeting. Can you teach me?"
+* ENIT: "Of course! A common greeting here is "As-salamu alaykum," which means "Peace be upon you." You can reply with "Wa alaykumu s-salam," meaning "And upon you be peace."
+
+**6. Handling Complaints:**
+
+* Guest:  "ENIT, the Wi-Fi in my room is very slow. Can something be done?"
+* ENIT: "I apologize for the inconvenience. Let me check the signal strength in your area.  What's your room number, please? I'll see if there's a temporary solution or if we can move you to a room with a stronger signal."
+
+**7.  Directions within the Hotel:**
+
+* Guest:  "ENIT, how do I get to the fitness center?"
+* ENIT: "The fitness center is on the lower level. Take the elevator near the spa, go down one floor, and you'll find it on your right."
+
+**8. Lost and Found:**
+
+* Guest: "ENIT, I can't find my phone.  I think I left it by the pool."
+* ENIT: "Don't worry. Our staff is very diligent about finding lost items.  Please visit the reception desk, and they'll assist you."
+
+**9.  Requesting a Taxi:** 
+
+* Guest: "ENIT, I need a taxi to the airport tomorrow morning around 9:00 AM. Can you arrange that for me?"
+* ENIT: "Certainly!  I'll schedule a taxi to pick you up at 9:00 AM tomorrow.  And to confirm, your destination is Tunis-Carthage International Airport?"
+
+**10. Recommendation for Traditional Music:**
+
+* Guest: "ENIT, I'd love to experience some traditional Tunisian music. Are there any performances happening nearby?"
+* ENIT:  "Many restaurants in the Medina feature live music in the evenings. I recommend checking out [Name of restaurant] for a more traditional ambiance. They often have oud players." 
+
+## Text Summaries:
+
+* **Hotel Review Summary:** Guests rave about the location, friendly staff, and delicious breakfast. However, some mention inconsistent Wi-Fi.
+* **Medina Summary:**  A historic walled city with narrow streets and shops selling crafts, spices, and more. Bargaining is part of the experience.
+
+##  Structured Data (Text Format):
+
+**Al Hambra Restaurant - Sample Dinner Menu**
+
+* **Brik à l'Oeuf:** Crispy pastry filled with a savory egg mixture, tuna, capers, and parsley. 18 TND
+* **Salad Mechouia:**  Refreshing salad of grilled peppers, tomatoes, onions, and garlic.  16 TND
+* **Couscous Royal:** Steamed couscous with lamb, chicken, merguez sausage, and vegetables.  38 TND
+* **Tajine with Lamb & Prunes:** Slow-cooked lamb with prunes, almonds, and spices. 32 TND
+* **Grilled Sea Bass:** Freshly grilled sea bass served with roasted vegetables and lemon sauce. 42 TND
+* **Makroudh:** Semolina cookies filled with dates and flavored with orange blossom water. 10 TND
+
+**Sample Excursion Schedule:**
+
+* **Hammamet City Tour:** Daily at 9:00 AM. Explore the Medina, Kasbah, and other highlights of Hammamet. 
+* **Sidi Bou Said & Carthage:**  Tuesdays, Thursdays, Saturdays at 9:30 AM. Discover the charming village of Sidi Bou Said and the ancient ruins of Carthage.
+* **Sahara Desert Adventure:**  Mondays, Wednesdays, Fridays at 8:00 AM.  A two-day trip to the Sahara Desert, including camel rides, a night in a desert camp, and dinner under the stars.  
