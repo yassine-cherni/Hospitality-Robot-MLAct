@@ -8,4 +8,3 @@ RAG stands for Retrieval Augmented Generation
 ## Our pipeline 
 get some data transformed to shunks 😁
 it load...
-https://github.com/yassine-cherni/Hospitality-Robot-MLAct/blob/main/Pic/youtube.jpg
