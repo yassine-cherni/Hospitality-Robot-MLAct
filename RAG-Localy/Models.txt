@@ -1,0 +1,20 @@
+https://www.youtube.com/watch?v=VpB6bxh4deM&t=23s
+
+
+LMM :  Mistral 7B
+
+
+
+Speech To Text :
+
+https://github.com/SYSTRAN/faster-whisper
+
+
+Text To Speech :
+
+https://github.com/myshell-ai/OpenVoice
+https://huggingface.co/coqui/XTTS-v2
+
+Create Embeddings :
+
+https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
